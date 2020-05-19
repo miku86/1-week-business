@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="161px" height="302px" viewBox="-0.5 -0.5 161 302" content="&lt;mxfile host=&quot;localhost&quot; modified=&quot;2020-05-19T12:45:56.167Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) code-oss/1.45.1 Chrome/78.0.3904.130 Electron/7.1.14 Safari/537.36&quot; etag=&quot;H33LBGhOh_A0qtQq4UkO&quot; version=&quot;13.0.9&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;7Vhdb5swFP01eZ34aNLssSHtNimdqnbTnl1wwKvxjcylSfrrdw12gBDarOumSY2EFHx8jX3POb4mjMIo33zSbJVdQ8LlKPCSzSicj4LA9yYf6ccg2xqZBl4NpFokNqgB7sQTdyMtWoqEF51ABJAoVl0wBqV4jB2MaQ3rbtgSZHfWFUt5D7iLmeyjP0SCmcvivME/c5FmbmbfJZwzF2wzKTKWwLoFhZejMNIAWN/lm4hLQ57jpR53NdC7W5jmCo8ZEJzVIx6ZLG1ydmG4ddnyhJK3TdCYQQqKycsGnWkoVcLNIz1qNTELgBWBPoE/OeLWKslKBIIyzKXtrec0Ew3mYaECSh3bqGBHGDmNQ85RbylEc8lQPHYfxazk6S5uN/QGBE0SeM6eE6uNNWcwmXYfgUynHO2ohlu6aS2jgSrGB9jvkf+94LonQLEWuWTKML0EhU4LQxyTIlV0HxNPNDKcPXKNgpx6YTvQKDCLMyGTBdtCadgskMUPrjXLQIsneixzYlC3RitVMOlE3JmRVmbNC4q5cRL5e9A123QCF6xAC8QgJVsV4n6XRk6UCjUDRMht0KADTIZ804L6DrC9066QrrlutuxO66y9Xb3pi565pbLCVEoJ/MZshyYjgjtzMUk6KoZ8ZvZU8YcGCw/sbmLWK8lmXyjmojKaFiodmYWEfsN8y39EN1a+0PDAI5BARpsrqA0ppNyDnCclX+KgI4sVi2naRRUzP2uQW8uNgYDGLmVVHzORJFxVtQYZsto6ZrUrsw8r8sYzuojiyPswHo1p4RG1/aZNlwnXGIGiXJiojMXJl2tuvHnAcsHRltt25XzJY/uyty3W0fsZcQ+VbifuV5bzrrwnTV+r6Tg4UtNnysaxmo4HNF1qwU05qCS9qhp0U9EzP2n7em2PPRPeQlvf74nrlDwd+E7NnnQH3gGOPfCD8/d34vv9d8p2Bdk/9N915XjJa//PUe8PvcjVqp5O+zfU9V8e9/7QO5yknCJTgWP8Jpy4qszvD/w9PIl7vLh/8bynZvPdpq7czdev8PIX&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-4-31-152-26-0">
+            <rect x="4" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-57-152-28-0">
+            <rect x="4" y="57" width="152" height="28"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-85-152-28-0">
+            <rect x="4" y="85" width="152" height="28"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-221-152-26-0">
+            <rect x="4" y="221" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-247-152-28-0">
+            <rect x="4" y="247" width="152" height="28"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-275-152-28-0">
+            <rect x="4" y="275" width="152" height="28"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 80 108 L 80 181.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 80 186.88 L 76.5 179.88 L 80 181.63 L 83.5 179.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 0 L 160 0 L 160 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 26 L 0 108 L 160 108 L 160 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 26 L 160 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="17.5">
+                User
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-31-152-26-0)" font-size="12px">
+            <text x="5.5" y="43.5">
+                + userId: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-57-152-28-0)" font-size="12px">
+            <text x="5.5" y="69.5">
+                + userName: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-85-152-28-0)" font-size="12px">
+            <text x="5.5" y="97.5">
+                + friends: Friend []
+            </text>
+        </g>
+        <path d="M 0 216 L 0 190 L 160 190 L 160 216" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 0 298 L 160 298 L 160 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 160 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="207.5">
+                Friend
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-221-152-26-0)" font-size="12px">
+            <text x="5.5" y="233.5">
+                + friendId: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-247-152-28-0)" font-size="12px">
+            <text x="5.5" y="259.5">
+                + friendName: string
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-4-275-152-28-0)" font-size="12px">
+            <text x="5.5" y="287.5">
+                + lastContactTime: number
+            </text>
+        </g>
+    </g>
+</svg>
