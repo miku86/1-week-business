@@ -1,5 +1,7 @@
 # Build - Thoughts
 
+Source: https://makebook.io/
+
 - the faster you get your product out, the faster you get feedback (if and how they use it)
 - tools to build fast and minimal exist
 - downsides: probably more bugs, less testing, less maintenance => trade-offs
