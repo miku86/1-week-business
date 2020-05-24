@@ -1,8 +1,8 @@
 # 1 Week Business
 
-## Idea
-
-- [Thoughts](/01_idea/thoughts.md)
+- [Ideas](/01_idea/thoughts.md)
+- [Build](/02_build/thoughts.md)
+- [Launch](/03_launch/thoughts.md)
 
 ---
 
