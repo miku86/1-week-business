@@ -1,6 +1,6 @@
 # Launch - Thoughts
 
-Source: https://makebook.io/
+Sources: https://makebook.io/, https://github.com/LisaDziuba/Marketing-for-Engineers
 
 - most important step
 - wrong launch can mean failure on day one
@@ -32,3 +32,20 @@ Source: https://makebook.io/
 - Product Hunt: early adopters, indie makers, supportive, only one submit, timing important
 - HackerNews: hardcore tech, honest, painful,
 - Reddit: more mainstream
+
+## Product Hunt (but also general stuff)
+
+- Title: Name of app, for normal users, not tech-geeks
+- 1st Link: Product
+- Tagline: what product does, the value it provides, how would users search for it?
+- Thumbnail: simple gif, square format
+- gallery: some impressions, 2:1 ratio
+- description: 1-2 sentences
+- topics: 3-4 topics
+- first comment: 3-4 sentences, introduce yourself, create a narrative that makes people relate and want to help you, e.g. if you’re a 16 year-old launching your first product and answering questions in the middle of math class.
+- social links: how to connect with you
+- schedule: as early as possible in PST US time, ~9-11 europe
+- ASK FOR FEEDBACK, respond to all comments
+- be nice, don't be a douche, it's not about you, only your product
+- publish your launch on social media
+- examples: https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
