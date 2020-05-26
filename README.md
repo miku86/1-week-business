@@ -6,7 +6,7 @@
 
 ---
 
-## Specific Projects
+## Projects
 
 ### Friends Reminder
 
