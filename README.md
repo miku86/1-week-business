@@ -22,3 +22,11 @@
 - [dev.to](https://dev.to/miku86/from-idea-to-build-to-launch-in-1-week-live-on-twitter-3bbh)
 - [Product Hunt](https://www.producthunt.com/posts/my-friends-reminder)
 - [Hacker News](https://news.ycombinator.com/item?id=23299816)
+
+#### Learnings / Ideas
+
+- show explanations (Explain it like I'm 5) about the product tightly coupled to the product (e.g. on the site)
+- make it VERY easy for the user to start, e.g. 1-click demo account instead of letting the user type in demo account data
+- add the twitter thread to the launch post, maybe some folks are interested in it?
+
+---
