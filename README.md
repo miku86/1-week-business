@@ -32,3 +32,12 @@
 - users are smart and test a lot of edge cases for you
 
 ---
+
+### Accounts Card
+
+- [Twitter Thread](https://twitter.com/miku86com/status/1265190217872551942)
+- [Intro](/accounts-card/intro.md)
+
+#### Launch Posts
+
+#### Learnings / Ideas
