@@ -16,3 +16,9 @@
 - [Intro](/friends-reminder/intro.md)
 - [User Stories](/friends-reminder/user-stories.md)
 - [Tech Stack](/friends-reminder/tech-stack.md)
+
+#### Launch Posts
+
+- [dev.to](https://dev.to/miku86/from-idea-to-build-to-launch-in-1-week-live-on-twitter-3bbh)
+- [Product Hunt](https://www.producthunt.com/posts/my-friends-reminder)
+- [Hacker News](https://news.ycombinator.com/item?id=23299816)
