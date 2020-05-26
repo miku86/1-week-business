@@ -38,6 +38,7 @@
 - [Twitter Thread](https://twitter.com/miku86com/status/1265190217872551942)
 - [Intro](/accounts-card/intro.md)
 - [User Stories](/accounts-card/user-stories.md)
+- [Tech Stack](/accounts-card/tech-stack.md)
 
 #### Launch Posts
 
