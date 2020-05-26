@@ -28,5 +28,7 @@
 - show explanations (Explain it like I'm 5) about the product tightly coupled to the product (e.g. on the site)
 - make it VERY easy for the user to start, e.g. 1-click demo account instead of letting the user type in demo account data
 - add the twitter thread to the launch post, maybe some folks are interested in it?
+- getting started using the product should be as frictionless as possible for the users
+- users are smart and test a lot of edge cases for you
 
 ---
