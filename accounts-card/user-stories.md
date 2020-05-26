@@ -12,5 +12,10 @@
 ### Ideas
 
 - As a new user, I can input a full URL and the app recognizes the website automatically.
+- As a new user, I can signup
+- As an old user, I can signin
+- As an old user, I can signout
+- As a new user, I can use a demo account to signin
+- As an old user, I can persistenly stay signedin
 
 ### From User Feedback
