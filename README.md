@@ -38,7 +38,6 @@
 
 - [Twitter Thread](https://twitter.com/miku86com/status/1265190217872551942)
 - [Demo](https://accounts-card.netlify.app/)
-- [User Feedback Board]()
 - [Code](https://github.com/miku86/accounts-card)
 - [Intro](/accounts-card/intro.md)
 - [User Stories](/accounts-card/user-stories.md)
