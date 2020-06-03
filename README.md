@@ -45,4 +45,9 @@
 
 #### Launch Posts
 
+- [dev.to](https://dev.to/miku86/2-from-idea-to-build-to-launch-in-1-week-live-on-twitter-1ba3)
+- [Product Hunt](https://www.producthunt.com/posts/accounts-card)
+- [Hacker News](https://news.ycombinator.com/item?id=23401026)
+- [Indie Hackers](https://www.indiehackers.com/post/from-idea-to-build-to-launch-in-1-week-live-on-twitter-d84e2c805b)
+
 #### Learnings / Ideas
