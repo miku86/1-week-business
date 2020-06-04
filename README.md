@@ -51,3 +51,26 @@
 - [Indie Hackers](https://www.indiehackers.com/post/from-idea-to-build-to-launch-in-1-week-live-on-twitter-d84e2c805b)
 
 #### Learnings / Ideas
+
+- note: these key points are my personal interpretations of conversations on twitter, not necessarily primary quotes
+
+- on feedback if pre product-market fit:
+
+  - direct conversations with users ([@sarahhum](https://twitter.com/sarahhum))
+  - 1. email or call 10-15 users, 2. note down feedback and pain points, 3. improve product ([@farez](https://twitter.com/farez))
+  - conversations with customers, note what they say, see a pattern between customers ([@alexsideris\_](https://twitter.com/alexsideris_))
+  - getting first users to email/call: start with people you know or communities you're part of (e.g. forums, slack groups) ([@farez](https://twitter.com/farez))
+  - conversations, ask questions and gather up a lot of feedback. Then start working out action items for each. Then cross match the items and see if there is a theme across all the feedback ([@jamesmkenny](https://twitter.com/jamesmkenny))
+
+- on notifying feedback creators:
+
+  - notifying via the original source is nice, but not super practical at scale, email works pretty well ([@sarahhum](https://twitter.com/sarahhum))
+  - let them know, if you implement something based on their feedback ([@alexsideris\_](https://twitter.com/alexsideris_))
+  - send them back a note to thank them, show what it resulted in. Or even get back to them before execution to keep the conversation going ([@jamesmkenny](https://twitter.com/jamesmkenny))
+
+- on user feedback boards:
+
+  - feedback solutions are helpful at scale, when feedback gets hard to manage ([@sarahhum](https://twitter.com/sarahhum))
+  - if people don't use feedback board: gentle push by letting them know, that the board exists. Or add their feedback manually ([@sarahhum](https://twitter.com/sarahhum))
+  - some feedback solutions can use existing user accounts, so no signin needed ([@sarahhum](https://twitter.com/sarahhum))
+  - some solutions have integrations to sync states between feedback board and team board ([@sarahhum](https://twitter.com/sarahhum))
