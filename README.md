@@ -6,6 +6,12 @@
 
 ---
 
+## General Learnings
+
+- always use hashtags (on twitter): if you don't have many followers, new people only see you through your followers' likes and retweets. Because most people follow many accounts and are not online all the time, your window of opportunity (= attention) is really small! If you use hashtags, people who are currently online can see your tweets more easily (without the need to be connected to your original followers) and can like and retweet it.
+
+---
+
 ## Projects
 
 ### Friends Reminder
